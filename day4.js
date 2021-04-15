@@ -7,3 +7,5 @@
 // hit commit
 // 3) we need to push our commit online 
 // git push
+
+let strive = 5 
